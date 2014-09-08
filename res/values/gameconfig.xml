@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This specifies the number of levels in the game -->
+    <string name="game_levels">65</string>
+
+    <!-- This is the name of the game, as it appears beside the icon when you install it -->
+    <string name="game_name">Wingdra</string>
+
+    <!-- This is the name of the game, as it appears on the main menu screen -->
+    <string name="game_title">Wingdra</string>
+
+    <!-- This is the text that appears as the "PLAY" button -->
+    <string name="play_button_text">Play</string>
+
+    <!-- This is the text that appears as the "HELP" button -->
+    <string name="help_button_text">Help</string>
+
+    <!-- This is the text that appears as the "QUIT" button -->
+    <string name="quit_button_text">Quit</string>
+
+    <!-- This determines whether the game is drawn in "portrait" or "landscape" mode -->
+    <string name="game_orientation">portrait</string>
+
+    <!-- This determines the height (in pixels) of the screen (not the level) -->
+    <string name="game_camera_height">560</string>
+
+    <!-- This determines the width (in pixels) of the screen (not the level) -->
+    <string name="game_camera_width">320</string>
+
+    <!-- This specifies the number of help scenes that will be drawn -->
+    <string name="game_help_scenes">2</string>
+
+    <!-- This specifies the background image for the opening scene -->
+    <string name="main_screen_background">splashscreen2.png</string>
+
+    <!--  This is for indicating if the vibration service should be used or not -->
+    <string name="enable_vibration">TRUE</string>
+
+    <!-- This is for development only.  Use TRUE to turn on a trick for unlocking levels -->
+    <string name="developer_unlock">TRUE</string>
+	
+</resources>
